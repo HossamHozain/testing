@@ -1,0 +1,8 @@
+.smallBox{
+  width: max-content;
+  background-color: rgb(101, 101, 238);
+  color:black
+}
+.Active{
+  color:rgb(224, 107, 107)
+}
